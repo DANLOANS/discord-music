@@ -1,4 +1,4 @@
-Discord status RPC
+Discord music
 ================
 
 DanLoans
