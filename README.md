@@ -20,36 +20,37 @@ Run Command:
 	node .
 
 Known Issues & Bugs
+================
 
 npm install:
     
-	@discordjs/opus
+@discordjs/opus
 	
-	@distube/ytdl
+@distube/ytdl
 	
-	discord.js
+discord.js
   
-  express
+express
   
-  fbdl-core
+fbdl-core
   
-  ffmpeg-static
+ffmpeg-static
   
-  lyrics-finder
+lyrics-finder
   
-  node-fetch
+node-fetch
   
-  old-wio.db
+old-wio.db
   
-  pretty-ms
+pretty-ms
   
-  soundcloud-scraper
+soundcloud-scraper
   
-  spotify-url-info
+spotify-url-info
   
-  youtube-sr
+youtube-sr
   
-  ytdl-core
+ytdl-core
 
 Known Issues & Bugs
 -------------------
