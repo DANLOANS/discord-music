@@ -34,21 +34,21 @@ npm install:
   
         ffmpeg-static
   
-lyrics-finder
+        lyrics-finder
   
-node-fetch
+        node-fetch
   
-old-wio.db
+        old-wio.db
   
-pretty-ms
+        pretty-ms
   
-soundcloud-scraper
+        soundcloud-scraper
   
-spotify-url-info
+        spotify-url-info
   
-youtube-sr
+        youtube-sr
   
-ytdl-core
+        ytdl-core
 
 Known Issues & Bugs
 -------------------
