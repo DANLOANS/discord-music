@@ -50,6 +50,6 @@ npm install:
   
         ytdl-core
 
-Known Issues & Bug
+Known Issues & Bugs
 -------------------
 discord js v11 will have a lot of problems in the code and many gardeners will use python more but if anyone knows the solution please tell me
